@@ -1,26 +1,35 @@
-## Hi there 👋
-
-                                                                                                                                                           
-                                                                                                                                                  
-  ![cidkagenow's GitHub stats](https://github-stats-woad-tau.vercel.app/api?username=cidkagenow&show_icons=true&theme=radical)       
-
-- 🔭 I’m currently working on Kti-pos, noru-web (BNPL model in peru)
-<!--
-**cidkagenow/cidkagenow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cidkagenow=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cidkagenow=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cidkagenow=anuraghazra&commits_year=2020)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cidkagenow=anuraghazra&show_icons=true&theme=radical)
-
-
-- 🔭 I’m currently working on Kti-pos, noru-weeb (BNPL model in peru)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## yoo 👋                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                  
+  ![cidkagenow's GitHub stats](https://github-stats-woad-tau.vercel.app/api?username=cidkagenow&show_icons=true&theme=radical)                                                                                                                                                                    
+                              
+  ### About Me                                                                                                                                                                                                                                                                                    
+  Full-stack developer from Peru. I build tools that solve real business problems — POS systems, online stores, trading bots, and fintech platforms.
+                                                                                                                                                                                                                                                                                                  
+  - 🔭 Currently working on **KTI POS**, **Luum** (BNPL for Peru), and **KTI Store**                                                                                                                                                                                                              
+  - 🤖 Built ML-powered trading systems (XGBoost signal filtering, 4 live strategies)                                                                                                                                                                                                             
+  - 🛒 Shipped a full e-commerce store at **motorepuestoskti.com**                                                                                                                                                                                                                                
+  - 📊 Built a real-time multi-branch monitoring dashboard                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                  
+  ### Tech Stack                                                                                                                                                                                                                                                                                  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)                                                                                                                                                                                                
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)                                                                                                                                                                                                      
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)                                                                                                                                                                                                
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)                                                                                                                                                                                                   
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)                                                                                                                                                                                                
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)                                                                                                                                                                                          
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)                                                                                                                                                                                                   
+  ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                  
+  ### Featured Projects       
+  | Project | Description |                                                                                                                                                                                                                                                                       
+  |---------|-------------|   
+  | **KTI POS** | Full POS system with SUNAT invoicing, smart restock, and real-time dashboard |
+  | **KTI Store** | Online auto parts store with 19K+ products |                                                                                                                                                                                                                                  
+  | **Luum** | BNPL credit platform with zkTLS verification (Reclaim Protocol) |                                                                                                                                                                                                                  
+  | **GoldBot** | ML-powered trading system — 4 strategies, XGBoost filtering, live bots |                                                                                                                                                                                                        
+  | **Desktop Buddy** | 3D AI assistant (Electron + Three.js + Claude) |                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                  
+  ### Contact                                                                                                                                                                                                                                                                                     
+  📫 admin@quantum3labs.com                                                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                  
+  Copy-paste it into the editor and hit Commit changes. Want me to adjust anything — add/remove projects, change the style?
