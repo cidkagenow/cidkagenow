@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow&commits_year=2020)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow&show_icons=true&theme=radical)
-
+  [![cidkagenow's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                              
+  ![cidkagenow's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow&hide=contribs,prs)                                                                                                                                                                                  
+  ![cidkagenow's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow&commits_year=2020)                                                                                                                                                                                  
+  ![cidkagenow's GitHub stats](https://github-readme-stats.vercel.app/api?username=cidkagenow&show_icons=true&theme=radical)       
 
 - 🔭 I’m currently working on Kti-pos, noru-web (BNPL model in peru)
 <!--
